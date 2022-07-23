@@ -9,13 +9,17 @@ A note taking app where user can add notes with title and description and add th
 ## How to run the Project
 
 The project is live on the web and the link is:
-https://medical-team-pager.netlify.app/
+https://62dbd8d95aa35c0182cb64ee--admirable-custard-e3d858.netlify.app/
 
 ## How it works
 
 * User can create a note by adding title and descrption in the small input box
+![img1](https://github.com/riya1511/note-it/blob/master/src/Screenshots/img1.png)
+![img2](https://github.com/riya1511/note-it/blob/master/src/Screenshots/img2.png)
 * After clicking on the '+' icon the note will be added to the page
+![img3](https://github.com/riya1511/note-it/blob/master/src/Screenshots/img3.png)
 * Delete the note by simply clicking on the delete icon
+![img4](https://github.com/riya1511/note-it/blob/master/src/Screenshots/img4.png)
 
 
 
